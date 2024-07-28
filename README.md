@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim ghali</h1>
 <h3 align="center">A passionate data engineer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif">
+
 - 🔭 I’m currently working on **Data Engineering Projects**
+
 - 🌱 I’m currently learning **ELK**
 
 - 👯 I’m looking to collaborate on **Innovative Data Solutions**
