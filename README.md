@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim ghali</h1>
 <h3 align="center">A passionate data engineer from Tunisia</h3>
-<img align="right" alt="Coding" width="600" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif">
+<img align="right" alt="Coding" width="550" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimghali&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimghali" /> </p>
 
