@@ -1,19 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ibrahim ghali</h1>
-<h3 align="center">A passionate data engineer from Tunisia</h3>
+<h3 align="center">A passionate Data Engineer from Tunisia</h3>
 <img align="right" alt="Coding" width="450" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimghali&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimghali" /> </p>
-
-- 🔭 I’m currently working on **Data Engineering Projects**
-
-- 🌱 I’m currently learning **ELK**
-
-- 👯 I’m looking to collaborate on **Innovative Data Solutions**
-
-- 🤝 I’m looking for help with **Advanced Data Integration**
-
-- 📫 How to reach me **ibrahim.elghali@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim ghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim ghali" height="30" width="40" /></a>
